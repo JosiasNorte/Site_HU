@@ -1,0 +1,53 @@
+body{
+    background-color: #343F4B;
+}
+.logohu {
+    width: 200px;
+    margin-bottom: 10px;
+}
+
+.fundomenu {
+    background-color: #5AD723;
+    height:40px;
+}
+
+.fundomenu span{
+        font-size: 10px;
+}
+.fundomenu .active{
+    background-color: #358306;
+}
+
+.fundomenu .active .nav-link{
+    color: #FFF !important;
+}
+
+.fundomenu .navbar-collapse{
+    background-color: #5AD723;
+    z-index: 2;
+}
+
+.formulario-contato {
+    width: 40%;
+}
+
+h1{
+    font-family: "Rockwell Extra Bold", serif;
+    color: #5AD723;
+}
+
+.formulario-contato label{
+    font-family: "Rockwell Extra Bold", serif;
+    color: #FFF;
+}
+
+.table-exame{
+    background-color: #FFF;
+}
+
+.login{
+    position: absolute;
+    z-index: 2;
+    margin-top: -4.5%;
+    right: 0;
+}
